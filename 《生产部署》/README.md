@@ -1,0 +1,17 @@
+## 生产环境（CentOS7.4）
+
+1. Java环境搭建
+2. 数据库搭建（Mysql5.7 主重模式、双主模式）
+
+      i. CentOS下MYSQL数据库的主主互备配置
+
+         链接：http://blog.csdn.net/limingzhong198/article/details/20413597
+
+      ii.[MySQL 高可用：主从配置或主主\(双主\)配置](http://blog.csdn.net/kk185800961/article/details/49235975)
+
+      iii. linux下实现mysql主主互备模式配置过程
+
+          链接：http://blog.csdn.net/wjs3238090/article/details/47838531
+
+
+
