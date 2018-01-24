@@ -34,6 +34,8 @@ ii.[centos7搭建docker私有仓库](http://www.cnblogs.com/vijayfly/p/7049979.h
 
 iii. [docker使用阿里云Docker镜像库加速\(修订版\)](http://blog.csdn.net/bwlab/article/details/50542261)  / [Docker中配置国内镜像](http://blog.csdn.net/zzy1078689276/article/details/77371782)
 
+iv. [Docker Compose—简化复杂容器应用的利器](https://www.tuicool.com/articles/AnIVJn)
+
 v. [使用Docker构建持续集成与自动部署的Docker集群](http://www.cnblogs.com/duyinqiang/p/5696254.html)
 
 * #### [docker部署微服务系列](https://www.jianshu.com/u/3caa5bc85c12)
