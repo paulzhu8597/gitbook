@@ -19,7 +19,7 @@ vii.[mycat 集群实现过程](http://blog.csdn.net/mchdba/article/details/50867
 
 viii.[Linux下MyCat和MyCat\_web的安装和配置](http://blog.csdn.net/yu757371316/article/details/54427538)
 
-     [mycat 瑞士军刀mycat-web详解](http://blog.csdn.net/mchdba/article/details/51059547)
+      [mycat 瑞士军刀mycat-web详解](http://blog.csdn.net/mchdba/article/details/51059547)
 
 * #### [常见主重同步异常](https://xstarcd.github.io/wiki/MySQL/online_mysqlrepl_error.html)
 
