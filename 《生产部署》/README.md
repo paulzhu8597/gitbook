@@ -21,9 +21,14 @@ viii.[Linux下MyCat和MyCat\_web的安装和配置](http://blog.csdn.net/yu75737
 
 viiii.[mycat-web 详解](http://blog.csdn.net/mchdba/article/details/51059547)
 
-
-
 * #### [常见主重同步异常](https://xstarcd.github.io/wiki/MySQL/online_mysqlrepl_error.html)
+* #### Docker环境搭建
+
+i.[centOS7.x 安装docker](https://www.jianshu.com/p/a7688319650a?from=groupmessage)   /  [CentOS7安装Docker与使用篇](http://blog.csdn.net/yown/article/details/51525035)
+
+ii.[centos7搭建docker私有仓库](http://www.cnblogs.com/vijayfly/p/7049979.html)
+
+iii.
 
 
 
