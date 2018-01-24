@@ -13,6 +13,10 @@ iv. [centos7安装mycat1.6](http://blog.csdn.net/u014180504/article/details/7284
 
 v. [mycat中间件（二）linux版本mycat1.6版本安装](http://blog.csdn.net/yuyuntan/article/details/53160960)
 
+vi.[Mycat生产实践---生产环境部署](http://blog.csdn.net/wangshuang1631/article/details/68947126)
+
+vii.[mycat 集群实现过程](http://blog.csdn.net/mchdba/article/details/50867885)
+
 * #### [常见主重同步异常](https://xstarcd.github.io/wiki/MySQL/online_mysqlrepl_error.html)
 
 
