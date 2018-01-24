@@ -26,9 +26,7 @@ viiii.[mycat-web 详解](http://blog.csdn.net/mchdba/article/details/51059547)
 
 i.[centOS7.x 安装docker](https://www.jianshu.com/p/a7688319650a?from=groupmessage)   /  [CentOS7安装Docker与使用篇](http://blog.csdn.net/yown/article/details/51525035)
 
-ii.[centos7搭建docker私有仓库](http://www.cnblogs.com/vijayfly/p/7049979.html)
+ii.[centos7搭建docker私有仓库](http://www.cnblogs.com/vijayfly/p/7049979.html) / [CentOS7.2定制属于自己的Docker私有库](http://www.linuxidc.com/Linux/2017-03/141850.htm)
 
 iii.
-
-
 
