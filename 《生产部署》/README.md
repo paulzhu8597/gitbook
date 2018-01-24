@@ -7,7 +7,7 @@ i. [CentOS下MYSQL数据库的主主互备配置](http://blog.csdn.net/limingzho
 
 ii.[MySQL 高可用：主从配置或主主\(双主\)配置](http://blog.csdn.net/kk185800961/article/details/49235975)
 
-iii. [linux下实现mysql主主互备模式配置过程](http://blog.csdn.net/wjs3238090/article/details/47838531)
+iii. [linux下实现mysql主主互备模式配置过程](http://blog.csdn.net/wjs3238090/article/details/47838531) / [MySQL5.6双机热备主从配置](https://www.cnblogs.com/sshoub/p/4392688.html)
 
 iv. [centos7安装mycat1.6](http://blog.csdn.net/u014180504/article/details/72847231?locationNum=15&fps=1)
 
@@ -22,6 +22,10 @@ viii.[Linux下MyCat和MyCat\_web的安装和配置](http://blog.csdn.net/yu75737
 viiii.[mycat-web 详解](http://blog.csdn.net/mchdba/article/details/51059547)
 
 * #### [常见主重同步异常](https://xstarcd.github.io/wiki/MySQL/online_mysqlrepl_error.html)
+* #### GitLab私服仓库搭建
+
+i. [CentOS7.X 搭建gitlab私服服务器](https://www.cnblogs.com/wenwei-blog/p/5861450.html)
+
 * #### Docker环境搭建
 
 i.[centOS7.x 安装docker](https://www.jianshu.com/p/a7688319650a?from=groupmessage)   /  [CentOS7安装Docker与使用篇](http://blog.csdn.net/yown/article/details/51525035)
