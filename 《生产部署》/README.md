@@ -32,6 +32,10 @@ i.[centOS7.x 安装docker](https://www.jianshu.com/p/a7688319650a?from=groupmess
 
 ii.[centos7搭建docker私有仓库](http://www.cnblogs.com/vijayfly/p/7049979.html) / [CentOS7.2定制属于自己的Docker私有库](http://www.linuxidc.com/Linux/2017-03/141850.htm)
 
+iii. [docker使用阿里云Docker镜像库加速\(修订版\)](http://blog.csdn.net/bwlab/article/details/50542261)  / [Docker中配置国内镜像](http://blog.csdn.net/zzy1078689276/article/details/77371782)
+
+v. [使用Docker构建持续集成与自动部署的Docker集群](http://www.cnblogs.com/duyinqiang/p/5696254.html)
+
 * #### [docker部署微服务系列](https://www.jianshu.com/u/3caa5bc85c12)
 
 
