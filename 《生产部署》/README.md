@@ -32,5 +32,7 @@ i.[centOS7.x 安装docker](https://www.jianshu.com/p/a7688319650a?from=groupmess
 
 ii.[centos7搭建docker私有仓库](http://www.cnblogs.com/vijayfly/p/7049979.html) / [CentOS7.2定制属于自己的Docker私有库](http://www.linuxidc.com/Linux/2017-03/141850.htm)
 
-iii.
+* #### [docker部署微服务系列](https://www.jianshu.com/u/3caa5bc85c12)
+
+
 
