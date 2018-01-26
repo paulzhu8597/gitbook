@@ -39,6 +39,11 @@ iv. [Docker Compose—简化复杂容器应用的利器](https://www.tuicool.com
 v. [使用Docker构建持续集成与自动部署的Docker集群](http://www.cnblogs.com/duyinqiang/p/5696254.html)
 
 * #### [docker部署微服务系列](https://www.jianshu.com/u/3caa5bc85c12)
+* #### Jenkins、Maven、Git、Docker自动编译部署
 
+i.[Jenkins Maven安装设置](http://www.yiibai.com/jenkins/jenkins_maven_setup.html)
 
+ii. [Jenkins Docker安装及Docker build step插件部署配置](http://www.cnblogs.com/soar1688/p/6833540.html)
+
+iii. [Jenkins配置基于角色的项目权限管理](http://www.cnblogs.com/itech/p/5192545.html)
 
