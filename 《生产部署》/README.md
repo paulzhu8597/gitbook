@@ -47,3 +47,5 @@ ii. [Jenkins Docker安装及Docker build step插件部署配置](http://www.cnbl
 
 iii. [Jenkins配置基于角色的项目权限管理](http://www.cnblogs.com/itech/p/5192545.html)
 
+v.[Docker部署Jenkins并发布Web服务](http://www.linuxidc.com/Linux/2016-11/137397.htm)  / [构建基于Jenkins + Github的持续集成环境 本人实践版](http://blog.csdn.net/u013066244/article/details/52611070)
+
