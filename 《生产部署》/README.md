@@ -49,3 +49,9 @@ iii. [Jenkins配置基于角色的项目权限管理](http://www.cnblogs.com/ite
 
 v.[Docker部署Jenkins并发布Web服务](http://www.linuxidc.com/Linux/2016-11/137397.htm)  / [构建基于Jenkins + Github的持续集成环境 本人实践版](http://blog.csdn.net/u013066244/article/details/52611070)
 
+* #### 生产性能监控
+
+i.[CentOS 7上的性能监控工具 ](http://www.178linux.com/44330)/ dstat、top、netstat、vmstat、htop、ss、glances
+
+
+
