@@ -55,3 +55,9 @@ i.[CentOS 7上的性能监控工具 ](http://www.178linux.com/44330)/ dstat、to
 
 ii.[五个Docker监控工具的对比](http://dockone.io/article/397)
 
+iii [centos /dev/mapper/cl-root 100% 解决方法](http://www.cnblogs.com/elizwy/p/7722898.html) /  find / -xdev -size +100M -exec ls -l {} \;
+
+
+
+
+
